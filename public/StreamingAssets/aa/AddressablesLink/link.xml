@@ -53,13 +53,14 @@
     <type fullname="SupermanAttack" preserve="all" />
     <type fullname="SupermanCollision" preserve="all" />
     <type fullname="Tornado" preserve="all" />
-    <type fullname="TrackPoint" preserve="all" />
     <type fullname="UIManager" preserve="all" />
     <type fullname="WaypointsManager" preserve="all" />
     <type fullname="Zebra" preserve="all" />
     <type fullname="CarSelection" preserve="nothing" serialized="true" />
     <type fullname="FreeParallaxElement" preserve="nothing" serialized="true" />
     <type fullname="FreeParallaxElementRepositionLogic" preserve="nothing" serialized="true" />
+    <type fullname="LevelDisplay" preserve="nothing" serialized="true" />
+    <type fullname="ObjectiveDetails" preserve="nothing" serialized="true" />
     <type fullname="Ranking" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="CFXRRuntime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -122,7 +123,6 @@
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
-    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
