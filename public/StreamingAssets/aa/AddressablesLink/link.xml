@@ -1,11 +1,9 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AcidDamage" preserve="all" />
     <type fullname="ActionButton" preserve="all" />
     <type fullname="AICar" preserve="all" />
     <type fullname="AiCarCanvas" preserve="all" />
     <type fullname="AISpawner" preserve="all" />
-    <type fullname="AlienScript" preserve="all" />
     <type fullname="AudioSourceTag" preserve="all" />
     <type fullname="BackTriggerScript" preserve="all" />
     <type fullname="Bomb" preserve="all" />
@@ -21,12 +19,11 @@
     <type fullname="CFX_LightIntensityFade" preserve="all" />
     <type fullname="ChildHandler" preserve="all" />
     <type fullname="Countdown" preserve="all" />
-    <type fullname="DesertGameEndAnimation" preserve="all" />
-    <type fullname="DesertMummy" preserve="all" />
+    <type fullname="DialogueManager" preserve="all" />
+    <type fullname="DialogueTrigger" preserve="all" />
     <type fullname="DisableGameObject" preserve="all" />
     <type fullname="DisableObject" preserve="all" />
     <type fullname="ElectricBall" preserve="all" />
-    <type fullname="EnableGameObject" preserve="all" />
     <type fullname="FinishLine" preserve="all" />
     <type fullname="FreeParallax" preserve="all" />
     <type fullname="GameManager" preserve="all" />
@@ -47,15 +44,12 @@
     <type fullname="Rocket" preserve="all" />
     <type fullname="RocketAI" preserve="all" />
     <type fullname="ShadowScript" preserve="all" />
-    <type fullname="SpaceGameEndAnimation" preserve="all" />
     <type fullname="StaticObstacle" preserve="all" />
     <type fullname="SunController" preserve="all" />
     <type fullname="SupermanAttack" preserve="all" />
     <type fullname="SupermanCollision" preserve="all" />
-    <type fullname="Tornado" preserve="all" />
+    <type fullname="TutorialOver" preserve="all" />
     <type fullname="UIManager" preserve="all" />
-    <type fullname="WaypointsManager" preserve="all" />
-    <type fullname="Zebra" preserve="all" />
     <type fullname="CarSelection" preserve="nothing" serialized="true" />
     <type fullname="FreeParallaxElement" preserve="nothing" serialized="true" />
     <type fullname="FreeParallaxElementRepositionLogic" preserve="nothing" serialized="true" />
@@ -128,9 +122,6 @@
     <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
     <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
     <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.SpriteMask" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
