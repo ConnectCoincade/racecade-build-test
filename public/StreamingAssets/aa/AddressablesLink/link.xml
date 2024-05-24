@@ -18,6 +18,7 @@
     <type fullname="CFX_AutoDestructShuriken" preserve="all" />
     <type fullname="CFX_LightIntensityFade" preserve="all" />
     <type fullname="ChildHandler" preserve="all" />
+    <type fullname="CityBossAI" preserve="all" />
     <type fullname="Countdown" preserve="all" />
     <type fullname="DialogueManager" preserve="all" />
     <type fullname="DialogueTrigger" preserve="all" />
@@ -122,6 +123,9 @@
     <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
     <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
     <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
